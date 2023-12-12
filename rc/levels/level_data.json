@@ -1,0 +1,18 @@
+{
+	"1": {
+		"difficulty": 0,
+		"description": "CSV to JSON"
+	},
+	"2": {
+		"difficulty": 1,
+		"description": "CSV to JSON part two"
+	},
+	"3": {
+		"difficulty": 1,
+		"description": "hex nonsens"
+	},
+	"4": {
+		"difficulty": 2,
+		"description": "INI to JSON"
+	}
+}
